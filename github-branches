@@ -1,0 +1,4 @@
+❯ git branch -vv
+* bug-fix-revert 30d4f74 [origin/bug-fix-revert] Revert "Fix year typo at Readme"
+  bug-fix-typo   28c1f6f [origin/bug-fix-typo: ahead 2] Fix year typo at Readme
+  main           28c1f6f [origin/main: ahead 3] Fix year typo at Readme
